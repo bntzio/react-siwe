@@ -1,0 +1,11 @@
+{
+  "name": "react-siwe",
+  "version": "0.1.0",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/react-siwe.git",
+  "author": "Enrique Benitez",
+  "license": "UNLICENSED",
+  "bin": {
+    "react-siwe": "cli.js"
+  }
+}
